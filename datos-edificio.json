@@ -1,0 +1,20 @@
+{
+  "id": "angelo",
+  "nombre": "Edificio Angelo",
+  "nit": "900002954-5",
+  "direccion": "Carrera 1 Este No. 84C-21",
+  "email": "edificioangeloph@gmail.com",
+  "unidades": "7",
+  "trabajadores": "1",
+  "contratistas_count": "1",
+  "admin_nombre": "Gloria Azcárate",
+  "admin_tel": "315 633 0171",
+  "color_primary": "#0EA5E9",
+  "color_secondary": "#38BDF8",
+  "emoji": "🏢",
+  "github_org": "edificioangeloph",
+  "repo_name": "sst-angelo",
+  "admin_user": "c3madriz",
+  "admin_pass": "angelo2026",
+  "contratistas": []
+}
